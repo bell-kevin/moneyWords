@@ -2,7 +2,7 @@
 
 This project converts integers into words, for example to print out on a check. If the number is 25, for example, the words are "twenty five". The project asks the user for the input number and displays the words, in a loop until the user types the sentinel of -1 to end the loop. Here is an example of the project output:
 
-Ch 11 Money Words
+![Ch 11 Money Words](https://github.com/bell-kevin/moneyWords/blob/main/moneyWords/checks.PNG)
 
 Validate that the input is in the range of 0 to 9999. If the number is less than 0, end the program. If the number is greater than 9999, display an error message and ask the user for another number.
 
@@ -14,7 +14,7 @@ In the main method, in a loop, ask the user for a number. Use -1 as the sentinel
 
 Run the project once and enter values that test all four digits, three digits, two digits, and one digit, as shown in the image. Be sure to include an invalid entry. Take a screenshot of the results.
 
- 
+ ![p](https://github.com/bell-kevin/moneyWords/blob/main/moneyWords/checks0.PNG)
 
 NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.
 
